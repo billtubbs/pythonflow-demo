@@ -7,6 +7,8 @@ Quote from wikipedia.org:
 
 > In computer programming, dataflow programming is a programming paradigm that models a program as a directed graph of the data flowing between operations, thus implementing dataflow principles and architecture.
 
+Excel spreadsheets are a well-known example of a tool that implements an automatic computation graph.
+
 See this question I posted on stackoverflow in August 2019 looking for Python-based solutions:
 
 - [Best way to 'intelligently' reset memoized property values in Python when dependencies change
@@ -19,5 +21,4 @@ Other possible solutions:
 - [Apache Airflow](https://airflow.apache.org)
 - [GNU Make for Data Analysis Workflow Management](https://joongsup.rbind.io/post/2018/08/26/gnu-make-for-workflow-manager/)
 - [Snakemake](https://snakemake.readthedocs.io/en/stable/)
-
 
