@@ -13,11 +13,11 @@ See this question I posted on stackoverflow in August 2019 looking for Python-ba
 ](https://stackoverflow.com/questions/57439169/best-way-to-intelligently-reset-memoized-property-values-in-python-when-depend/57779847#57779847)
 
 Other possible solutions:
-
+- [Tensorflow / Tensorboard](https://www.tensorflow.org)
 - [Dask](https://docs.dask.org/en/latest/)
-- d6tflow
-- Apache Airflow
-- GNU Make for Data Analysis Workflow Management (https://joongsup.rbind.io/post/2018/08/26/gnu-make-for-workflow-manager/)
-- Snakemake (https://snakemake.readthedocs.io/en/stable/)
+- [d6tflow](https://github.com)
+- [Apache Airflow](https://airflow.apache.org)
+- [GNU Make for Data Analysis Workflow Management](https://joongsup.rbind.io/post/2018/08/26/gnu-make-for-workflow-manager/)
+- [Snakemake](https://snakemake.readthedocs.io/en/stable/)
 
 
